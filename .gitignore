@@ -3,7 +3,6 @@ SeetaFaceEngine/
 build/
 dist/
 pyseeta.egg-info/
-SeetaFaceEngine/
 examples/uploads/
 *.pyc
 .DS_store
